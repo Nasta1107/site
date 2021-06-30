@@ -1,0 +1,85 @@
+body{
+	background-color:black;
+}
+.logo img{
+	border: 2px solid black;
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	margin-right: 20px;
+	display: flex;
+	justify-content: flex-start;
+}
+span{
+	color: white;
+	display: flex;
+	align-items: baseline;
+	padding: 10px;
+}
+.MENU{
+	display: flex;
+	flex-direction: row ;
+	justify-content: flex-end;
+	padding: 15px;
+}
+.flex-row{
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: space-around;
+	background-color: white;
+}
+
+.block1{
+	border:2px solid black;
+	border-radius: 15px;
+	width: 300px;
+	height: 350px;
+	margin: 120px;
+	background-color: white;
+}
+.block2{
+	border:2px solid black;
+	border-radius: 15px;
+	width: 300px;
+	height: 350px;
+	margin: 120px;
+}
+.block3{
+	border:2px solid black;
+	border-radius: 15px;
+	width: 300px;
+	height: 350px;
+	margin: 120px;
+}
+img{
+	width: 250px;
+	padding: 20px;
+}
+div{
+	text-align: center;
+}
+.block4{
+	border:2px solid black;
+	border-radius: 15px;
+	width: 150px;
+	height: 170px;
+	margin: 120px;
+	padding: 20px;
+}
+.block5{
+	border:2px solid black;
+	border-radius: 15px;
+	width: 150px;
+	height: 170px;
+	margin: 120px;
+	padding: 20px;
+}
+.block6{
+	border:2px solid black;
+	border-radius: 15px;
+	width: 150px;
+	height: 170px;
+	margin: 120px;
+	padding: 20px;
+}
